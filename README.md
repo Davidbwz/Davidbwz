@@ -3,7 +3,7 @@
 
   
   <h2 align="center">
-## Tech Stack and Tools
+ Tech Stack and Tools
 
 ### Programming Languages
 
