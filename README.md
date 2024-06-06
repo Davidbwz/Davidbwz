@@ -7,7 +7,7 @@
 
  
 
-## My Tech Stack and Tools
+## Tech Stack and Tools
 
 ### Programming Languages
 
